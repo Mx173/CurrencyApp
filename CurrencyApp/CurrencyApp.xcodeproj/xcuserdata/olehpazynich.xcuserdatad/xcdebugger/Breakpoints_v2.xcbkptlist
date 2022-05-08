@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "46AB9DA4-0FC6-4B0A-AAD2-0FAAD118BEC9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "840DCA47-465A-4E58-A60F-B6C9E9A66794"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyApp/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getQuotesRequest()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "840DCA47-465A-4E58-A60F-B6C9E9A66794 - dbc01eeb628cee69"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for CurrencyApp.CurrencyService.getQuotesRequest() async -&gt; Swift.Array&lt;CurrencyApp.QuoteCurrency&gt;"
+                  moduleName = "CurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olehpazynich/wokwokwork/swift/CurrencyApp/CurrencyApp/CurrencyService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "871">
+               </Location>
+               <Location
+                  uuid = "840DCA47-465A-4E58-A60F-B6C9E9A66794 - 9cb805e14ed623ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for CurrencyApp.CurrencyService.getQuotesRequest() async -&gt; Swift.Array&lt;CurrencyApp.QuoteCurrency&gt;"
+                  moduleName = "CurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olehpazynich/wokwokwork/swift/CurrencyApp/CurrencyApp/CurrencyService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1584">
+               </Location>
+               <Location
+                  uuid = "840DCA47-465A-4E58-A60F-B6C9E9A66794 - 63f4061c38cb012e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for CurrencyApp.CurrencyService.getQuotesRequest() async -&gt; Swift.Array&lt;CurrencyApp.QuoteCurrency&gt;"
+                  moduleName = "CurrencyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/olehpazynich/wokwokwork/swift/CurrencyApp/CurrencyApp/CurrencyService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "645">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EBD2BA5-5CE9-4644-AD1E-1DFC6FC66F58"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyApp/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getQuotesRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5428675D-7E30-4EC6-BD5C-81B7FC650D83"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyApp/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getQuotesRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE7895CF-AAE3-41C9-B1E9-7FAA0476B5BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyApp/CurrencyService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getQuotesRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
